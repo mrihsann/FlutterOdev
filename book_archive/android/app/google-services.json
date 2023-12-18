@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3228866597",
+    "project_id": "library-ddec8",
+    "storage_bucket": "library-ddec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3228866597:android:79e192a7b27382d97b87cc",
+        "android_client_info": {
+          "package_name": "com.ihsanarslan.book_archive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0Rk43wyKPbWnownP1Vqa6Uaa7sUzi2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
